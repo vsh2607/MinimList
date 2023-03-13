@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity"
+    android:background="#F0EEED">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/action_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:backgroundTint="@color/myanime_blue"
+        android:src="@drawable/n_share"
+        app:borderWidth="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:tint="@color/white" />
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp">
+
+
+                    <ImageView
+                        android:id="@+id/detail_img_land"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/a_kaguya_sama"/>
+
+                    <TextView
+                        android:id="@+id/detail_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="5dp"
+                        android:layout_marginTop="150dp"
+                        android:text="Sora yori mo Tooi Basho"
+                        android:textColor="@color/white"
+                        android:textSize="30sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/detail_genre"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="9dp"
+                        android:layout_marginTop="190dp"
+                        android:text="Award Winning, Drama, Supernatural"
+                        android:textColor="@color/white"
+                        android:textSize="15sp"
+                        android:textStyle="bold" />
+
+
+                </FrameLayout>
+
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginTop="220dp"
+                app:cardCornerRadius="20dp"
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/detail_img_thumbnail"
+                        android:layout_width="100dp"
+                        android:layout_height="150dp"
+                        android:layout_marginStart="25dp"
+                        android:layout_marginTop="20dp"
+                        android:src="@drawable/a_kaguya_sama" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_marginEnd="10dp"
+                        >
+
+                        <TableLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="5dp"
+                            android:layout_marginEnd="10dp"
+                            android:layout_marginStart="10dp">
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp">
+
+
+
+                                <TextView
+                                    android:id="@+id/detail_score"
+                                    android:layout_width="60dp"
+                                    android:height="30dp"
+                                    android:textSize="20sp"
+                                    android:textStyle="bold"
+                                    android:text="8.85"
+                                    />
+
+                                <ImageView
+                                    android:layout_marginTop="3dp"
+                                    android:layout_width="20dp"
+                                    android:layout_height="20dp"
+                                    android:src="@drawable/m_star"/>
+                            </TableRow>
+
+                        </TableLayout>
+
+                        <TableLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="45dp"
+                            android:layout_marginEnd="10dp"
+                            android:layout_marginStart="10dp">
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp">
+
+                                <TextView
+                                    android:id="@+id/detail_rank"
+                                    android:layout_width="wrap_content"
+                                    android:height="30dp"
+                                    android:textSize="20sp"
+                                    android:textStyle="bold"
+                                    android:text="Ranked #27"
+                                    />
+                            </TableRow>
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp">
+
+                                <TextView
+                                    android:id="@+id/detail_popularity"
+                                    android:layout_width="wrap_content"
+                                    android:height="30dp"
+                                    android:textSize="20sp"
+                                    android:textStyle="bold"
+                                    android:text="Popularity #11"
+                                    />
+                            </TableRow>
+
+                            <TableRow
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="10dp">
+
+                                <TextView
+                                    android:id="@+id/detail_membership"
+                                    android:layout_width="wrap_content"
+                                    android:height="30dp"
+                                    android:textSize="20sp"
+                                    android:textStyle="bold"
+                                    android:text="Members 2,536,519"
+                                    />
+                            </TableRow>
+
+                        </TableLayout>
+
+
+
+
+
+                    </RelativeLayout>
+
+
+
+
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="440dp">
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Synopsis"
+                    android:layout_marginStart="20dp"
+                    android:textColor="@color/black"
+                    android:textSize="22sp"/>
+
+                <TextView
+                    android:id="@+id/detail_synopsis"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginEnd="20dp"
+                    android:text="@string/synopsis_sample"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Background"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginStart="20dp"
+                    android:textColor="@color/black"
+                    android:textSize="22sp"
+
+                    />
+
+                <TextView
+
+                    android:id="@+id/detail_background"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="sfdsdfsdf"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:textSize="18sp"
+                    />
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Trailer"
+                    android:layout_marginTop="30dp"
+                    android:layout_marginStart="20dp"
+                    android:textColor="@color/black"
+                    android:textSize="22sp"
+
+                    />
+
+                <FrameLayout
+                    android:id="@+id/fl_detail_trailer"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp">
+
+                    <WebView
+                        android:id="@+id/wv_detail_trailer"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        />
+                </FrameLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"/>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

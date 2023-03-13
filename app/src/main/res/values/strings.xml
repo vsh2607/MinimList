@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">MinimList</string>
+
+
+    <string name="title_sample">Vinland Saga</string>
+    <string name="synopsis_sample">Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It\'s said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. Though his father once told him, "You have no enemies, nobody does. There is nobody who it\'s okay to hurt," as he grew, Thorfinn knew that nothing was further from the truth.The war between England and the Danes grows worse with each passing year. Death has become commonplace, and the viking mercenaries are loving every moment of it. Allying with either side will cause a massive swing in the balance of power, and the vikings are happy to make names for themselves and take any spoils they earn along the way. Among the chaos, Thorfinn must take his revenge and kill Askeladd, the man who murdered his father. The only paradise for the vikings, it seems, is the era of war and death that rages on.</string>
+    <string name="score_sample">8.73</string>
+    <string name="genre_sample">Action, Adventure, Drama</string>
+
+
+    <string-array name="data_title">
+        <item>Kaguya-sama : Love is War</item>
+        <item>Kimi no Na wa.</item>
+        <item>Vinland Saga</item>
+        <item>Violet Evergarden</item>
+        <item>Koe no Katachi</item>
+        <item>Steins;Gate</item>
+        <item>Spy x Family</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Chainsaw Man</item>
+        <item>Sora yori mo Tooi Basho</item>
+    </string-array>
+
+    <string-array name="data_sysnopsis">
+        <item>The elite members of Shuchiin Academy\'s student council continue their competitive day-to-day antics. Council president Miyuki Shirogane clashes daily against vice-president Kaguya Shinomiya, each fighting tooth and nail to trick the other into confessing their romantic love. Kaguya struggles within the strict confines of her wealthy, uptight family, rebelling against her cold default demeanor as she warms to Shirogane and the rest of her friends.Meanwhile, council treasurer Yuu Ishigami suffers under the weight of his hopeless crush on Tsubame Koyasu, a popular upperclassman who helps to instill a new confidence in him. Miko Iino, the newest student council member, grows closer to the rule-breaking Ishigami while striving to overcome her own authoritarian moral code.As love further blooms at Shuchiin Academy, the student council officers drag their outsider friends into increasingly comedic conflicts.</item>
+        <item>Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.One day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki\'s body! Elsewhere, Taki finds himself living Mitsuha\'s life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.Kimi no Na wa. revolves around Mitsuha and Taki\'s actions, which begin to have a dramatic impact on each other\'s lives, weaving them into a fabric held together by fate and circumstance.</item>
+        <item>Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It\'s said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. Though his father once told him, "You have no enemies, nobody does. There is nobody who it\'s okay to hurt," as he grew, Thorfinn knew that nothing was further from the truth.The war between England and the Danes grows worse with each passing year. Death has become commonplace, and the viking mercenaries are loving every moment of it. Allying with either side will cause a massive swing in the balance of power, and the vikings are happy to make names for themselves and take any spoils they earn along the way. Among the chaos, Thorfinn must take his revenge and kill Askeladd, the man who murdered his father. The only paradise for the vikings, it seems, is the era of war and death that rages on.</item>
+        <item>The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War\'s final leg, she was left with only words from the person she held dearest, but with no understanding of their meaning.Recovering from her wounds, Violet starts a new life working at CH Postal Services after a falling out with her new intended guardian family. There, she witnesses by pure chance the work of an "Auto Memory Doll," amanuenses that transcribe people\'s thoughts and feelings into words on paper. Moved by the notion, Violet begins work as an Auto Memory Doll, a trade that will take her on an adventure, one that will reshape the lives of her clients and hopefully lead to self-discovery.</item>
+        <item>As a wild youth, elementary school student Shouya Ishida sought to beat boredom in the cruelest ways. When the deaf Shouko Nishimiya transfers into his class, Shouya and the rest of his class thoughtlessly bully her for fun. However, when her mother notifies the school, he is singled out and blamed for everything done to her. With Shouko transferring out of the school, Shouya is left at the mercy of his classmates. He is heartlessly ostracized all throughout elementary and middle school, while teachers turn a blind eye.Now in his third year of high school, Shouya is still plagued by his wrongdoings as a young boy. Sincerely regretting his past actions, he sets out on a journey of redemption: to meet Shouko once more and make amends.Koe no Katachi tells the heartwarming tale of Shouya\'s reunion with Shouko and his honest attempts to redeem himself, all while being continually haunted by the shadows of his past.</item>
+        <item>Eccentric scientist Rintarou Okabe has a never-ending thirst for scientific exploration. Together with his ditzy but well-meaning friend Mayuri Shiina and his roommate Itaru Hashida, Rintarou founds the Future Gadget Laboratory in the hopes of creating technological innovations that baffle the human psyche. Despite claims of grandeur, the only notable "gadget" the trio have created is a microwave that has the mystifying power to turn bananas into green goo.However, when Rintarou decides to attend neuroscientist Kurisu Makise\'s conference on time travel, he experiences a series of strange events that lead him to believe that there is more to the "Phone Microwave" gadget than meets the eye. Apparently able to send text messages into the past using the microwave, Rintarou dabbles further with the "time machine," attracting the ire and attention of the mysterious organization SERN.Due to the novel discovery, Rintarou and his friends find themselves in an ever-present danger. As he works to mitigate the damage his invention has caused to the timeline, he is not only fighting a battle to save his loved ones, but also one against his degrading sanity.</item>
+        <item>Corrupt politicians, frenzied nationalists, and other warmongering forces constantly jeopardize the thin veneer of peace between neighboring countries Ostania and Westalis. In spite of their plots, renowned spy and master of disguise "Twilight" fulfills dangerous missions one after another in the hope that no child will have to experience the horrors of war.In the bustling Ostanian city of Berlint, Twilight dons the alias of "Loid Forger," an esteemed psychiatrist. However, his true intention is to gather intelligence on prominent politician Donovan Desmond, who only appears rarely in public at his sons\' school: the prestigious Eden Academy. Enlisting the help of unmarried city hall clerk Yor Briar to act as his wife and adopting the curious six-year-old orphan Anya as his daughter, Loid enacts his master plan. He will enroll Anya in Eden Academy, where Loid hopes she will excel and give him the opportunity to meet Donovan without arousing suspicion.Unfortunately for Loid, even a man of his talents has trouble playing the figure of a loving father and husband. And just like Loid is hiding his true identity, Yor—who is an underground assassin known as "Thorn Princess"—and Anya—an esper who can read people\'s minds—have no plans to disclose their own secrets either. Although this picture-perfect family is founded on deception, the Forgers gradually come to understand that the love they share for one another trumps all else.</item>
+        <item>Idly indulging in baseless paranormal activities with the Occult Club, high schooler Yuuji Itadori spends his days at either the clubroom or the hospital, where he visits his bedridden grandfather. However, this leisurely lifestyle soon takes a turn for the strange when he unknowingly encounters a cursed item. Triggering a chain of supernatural occurrences, Yuuji finds himself suddenly thrust into the world of Curses—dreadful beings formed from human malice and negativity—after swallowing the said item, revealed to be a finger belonging to the demon Sukuna Ryoumen, the "King of Curses."Yuuji experiences first-hand the threat these Curses pose to society as he discovers his own newfound powers. Introduced to the Tokyo Metropolitan Jujutsu Technical High School, he begins to walk down a path from which he cannot return—the path of a Jujutsu sorcerer.</item>
+        <item>Denji is robbed of a normal teenage life, left with nothing but his deadbeat father\'s overwhelming debt. His only companion is his pet, the chainsaw devil Pochita, with whom he slays devils for money that inevitably ends up in the yakuza\'s pockets. All Denji can do is dream of a good, simple life: one with delicious food and a beautiful girlfriend by his side. But an act of greedy betrayal by the yakuza leads to Denji\'s brutal, untimely death, crushing all hope of him ever achieving happiness.Remarkably, an old contract allows Pochita to merge with the deceased Denji and bestow devil powers on him, changing him into a hybrid able to transform his body parts into chainsaws. Because Denji\'s new abilities pose a significant risk to society, the Public Safety Bureau\'s elite devil hunter Makima takes him in, letting him live as long as he obeys her command. Guided by the promise of a content life alongside an attractive woman, Denji devotes everything and fights with all his might to make his naive dreams a reality.</item>
+        <item>Filled with an overwhelming sense of wonder for the world around her, Mari Tamaki has always dreamt of what lies beyond the reaches of the universe. However, despite harboring such large aspirations on the inside, her fear of the unknown and anxiety over her own possible limitations have always held her back from chasing them. But now, in her second year of high school, Mari is more determined than ever to not let any more of her youth go to waste. Still, her fear continues to prevent her from taking that ambitious step forward—that is, until she has a chance encounter with a girl who has grand dreams of her own.Spurred by her mother\'s disappearance, Shirase Kobuchizawa has been working hard to fund her trip to Antarctica. Despite facing doubt and ridicule from virtually everyone, Shirase is determined to embark on this expedition to search for her mother in a place further than the universe itself. Inspired by Shirase\'s resolve, Mari jumps at the chance to join her. Soon, their efforts attract the attention of the bubbly Hinata Miyake, who is eager to stand out, and Yuzuki Shiraishi, a polite girl from a high class background. Together, they set sail toward the frozen south.Sora yori mo Tooi Basho follows the captivating journey of four spirited girls, all in search of something great.</item>
+    </string-array>
+
+    <string-array name="data_background">
+        <item>No background information has been added to this title.</item>
+        <item>Kimi no Na wa. won the LAFCA Animation Award in 2016 and the Best Animated Film in 2017 by Mainichi Film Awards. It also won the Grand Prize Award on the 20th Japan Media Arts Festival.</item>
+        <item>No background information has been added to this title.</item>
+        <item>No background information has been added to this title.</item>
+        <item>Koe no Katachi won the following awards: Japanese Movie Critics Awards for Best Animation Feature Film in 2016; Japanese Academy Award for Excellent Animation of the Year in 2016; Tokyo Anime Award Festival for Anime of the Year (movie) and Best Screenplay / Original Story (Reiko Yoshida) in 2017; Japan Media Arts Festival for Animation Division - Excellence Award in 2017; Japan Movie Critics Awards for Best Animation of the Year in 2017; and Camera Japan Festival for Feature Film in 2017.</item>
+        <item>Steins;Gate is based on 5pb. and Nitroplus\' visual novel of the same title released in 2009.</item>
+        <item>Winner of the Anime of the Year (TV Series) at the 2023 Tokyo Anime Award Festival (TAAF).</item>
+        <item>Winner of the Anime of the Year (TV Series) at the 2022 Tokyo Anime Award Festival (TAAF).</item>
+        <item>Chainsaw Man was released in four volumes on Blu-ray and DVD from January 27, 2023 to April 28, 2023.</item>
+        <item>No background information has been added to this title. </item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Comedy, Romance</item>
+        <item>Award Winning, Drama, Supernatural</item>
+        <item>Action, Adventure, Drama</item>
+        <item>Drama, Fantasy</item>
+        <item>Award Winning, Drama</item>
+        <item>Drama, Sci-Fi, Suspense</item>
+        <item>Action, Award Winning, Comedy</item>
+        <item>Action, Award Winning, Fantasy</item>
+        <item>Action, Fantasy</item>
+        <item>Adventure, Comedy, Drama</item>
+    </string-array>
+
+
+    <string-array name="data_score">
+        <item>9.06</item>
+        <item>8.85</item>
+        <item>8.73</item>
+        <item>8.67</item>
+        <item>8.94</item>
+        <item>9.08</item>
+        <item>8.66</item>
+        <item>8.65</item>
+        <item>8.64</item>
+        <item>8.53</item>
+    </string-array>
+
+    <string-array name="data_rank">
+        <item>Ranked #6</item>
+        <item>Ranked #27</item>
+        <item>Ranked #45</item>
+        <item>Ranked #60</item>
+        <item>Ranked #19</item>
+        <item>Ranked #4</item>
+        <item>Ranked #63</item>
+        <item>Ranked #66</item>
+        <item>Ranked #70</item>
+        <item>Ranked #113</item>
+    </string-array>
+
+    <string-array name="data_popularity">
+        <item>Popularity #223</item>
+        <item>Popularity #11</item>
+        <item>Popularity #89</item>
+        <item>Popularity #50</item>
+        <item>Popularity #19</item>
+        <item>Popularity #13</item>
+        <item>Popularity #92</item>
+        <item>Popularity #17</item>
+        <item>Popularity #108</item>
+        <item>Popularity #426</item>
+    </string-array>
+
+
+    <string-array name="data_members">
+        <item>Members 768,486</item>
+        <item>Members 2,536,866</item>
+        <item>Members 1,290,114</item>
+        <item>Members 1,636,847</item>
+        <item>Members 2,138,982</item>
+        <item>Members 2,390,596</item>
+        <item>Members 1,263,961</item>
+        <item>Members 2,165,721</item>
+        <item>Members 1,156,849</item>
+        <item>Members 469,574</item>
+    </string-array>
+
+    <integer-array name="data_img_thumbnail">
+        <item>@drawable/a_kaguya_sama</item>
+        <item>@drawable/b_kiminonawa</item>
+        <item>@drawable/c_vinland_saga</item>
+        <item>@drawable/d_violet_evergarden</item>
+        <item>@drawable/e_koe_no_katachi</item>
+        <item>@drawable/f_steins_gate</item>
+        <item>@drawable/g_spyxfamily</item>
+        <item>@drawable/h_jujutsu_kaisen</item>
+        <item>@drawable/i_chainsaw_man</item>
+        <item>@drawable/j_sora_yori</item>
+    </integer-array>
+
+    <integer-array name="data_img_land">
+        <item>@drawable/a_kaguya_sama_landscape</item>
+        <item>@drawable/b_kiminonawa_landscape</item>
+        <item>@drawable/c_vinland_saga_landscape</item>
+        <item>@drawable/d_violet_evergarden</item>
+        <item>@drawable/e_koe_no_katachi_landscape</item>
+        <item>@drawable/f_steins_gate_landscape</item>
+        <item>@drawable/g_spyxfamily_landscape</item>
+        <item>@drawable/h_jujutsu_kaisen</item>
+        <item>@drawable/i_chainsaw_man_landscape</item>
+        <item>@drawable/j_sora_yori_landscape</item>
+    </integer-array>
+
+    <string-array name="data_yt_link">
+        <item>vFN5K-iAyV0</item>
+        <item>3KR8_igDs1Y</item>
+        <item>f8JrZ7Q_p-8</item>
+        <item>g5xWqjFglsk</item>
+        <item>XBNWo25izJ8</item>
+        <item>27OZc-ku6is</item>
+        <item>_VRxEEBa1XU</item>
+        <item>4A_X-Dvl0ws</item>
+        <item>q15CRdE5Bv0</item>
+        <item>jFgvK5BzGck</item>
+    </string-array>
+
+    <string-array name="data_ml_link">
+        <item>https://myanimelist.net/anime/43608/Kaguya-sama_wa_Kokurasetai__Ultra_Romantic</item>
+        <item>https://myanimelist.net/anime/32281/Kimi_no_Na_wa</item>
+        <item>https://myanimelist.net/anime/37521/Vinland_Saga</item>
+        <item>https://myanimelist.net/anime/33352/Violet_Evergarden</item>
+        <item>https://myanimelist.net/anime/28851/Koe_no_Katachi</item>
+        <item>https://myanimelist.net/anime/9253/Steins_Gate</item>
+        <item>https://myanimelist.net/anime/50265/Spy_x_Family</item>
+        <item>https://myanimelist.net/anime/40748/Jujutsu_Kaisen</item>
+        <item>https://myanimelist.net/anime/44511/Chainsaw_Man</item>
+        <item>https://myanimelist.net/anime/35839/Sora_yori_mo_Tooi_Basho</item>
+    </string-array>
+
+
+</resources>
